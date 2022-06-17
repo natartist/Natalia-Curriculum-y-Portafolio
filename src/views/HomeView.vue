@@ -354,6 +354,7 @@
 
 <script>
 import emailjs from "emailjs-com";
+import Swal from'sweetalert2';
 
 
 export default {
@@ -378,6 +379,9 @@ export default {
           }
         )
         formulario.reset();
+        Swal.fire({
+        text: 'Tus comentarios fueron enviados con éxito',
+         })
         
     },
   },
@@ -556,9 +560,9 @@ div.modal-content {
   font-family: "Quicksand", sans-serif;
 }
 
-.form-label {
+label.form-label {
   font-size: 14px;
-  margin-top: 0px;
+  margin-top: 15px;
 }
 
 .form-label-2 {
