@@ -1,17 +1,10 @@
 <template>
   <div class="container cuerpo">
     <div class="row fila-1">
-      <div class="caja1 col-md-8 col-xs-8" style="background-color: #f7efdd">
-        <h2>Quién soy</h2>
+      <div class="caja1 col-md-8 col-xs-8"  style="background-color: #fcfce2;">
+        <h2>About me</h2>
         <p>
-          Profesional con más de 18 años de experiencia en área de
-          comunicaciones y coordinación de proyectos, adentrándose en las nuevas
-          tecnologías a través del desarrollo web (FrontEnd Developer). Enfocada
-          en la satisfacción del cliente y cumplimiento de metas, por medio de
-          la creación de páginas web acordes a los requerimientos del área. Con
-          interés de aprender, habilidades en trabajo en equipo, manejo bajo
-          presión, resiliente y con competencias relacionadas con comunicación
-          verbal y escrita para generar un trabajo de excelencia y eficiente.
+          Professional with more than 18 years of experience in the area of ​​communications and project coordination. Now, i´ve started a journey into new technologies through web development (FrontEnd Developer). Focused on customer satisfaction and meeting goals, through the creation of web pages according to the requirements of the area. Im interested in learning, I have teamwork skills, managing under pressure. Im resilient and with skills related to verbal and written communication to generate excellent and efficient work.
         </p>
 
         <!-- Button trigger modal -->
@@ -44,16 +37,10 @@
                   aria-label="Close"
                 ></button>
               </div>
-              <div class="row modal-body">
-                <!-- <div class="col-md-12"> -->
-                
-                <p> 
-                  <img class="imgcv" align="left" src="@/assets/retrato.jpeg" alt="Foto" >
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde ut
+              <div class="modal-body">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde ut
                 at quae vel alias labore sint? Magni eos rem itaque iure tenetur
                 ea quibusdam, eveniet alias laudantium impedit dolores quidem!
-                </p>
-              <!-- </div> -->
               </div>
               <!--/modal-->
             </div>
@@ -63,7 +50,7 @@
 
       <div
         class="caja2 col-md-3 col-xs-6 mt-3"
-        style="background-color: #e3f6ff"
+        style="background-color: #eed5ee"
       >
         <h2>FrontEnd Skills</h2>
         <ul>
@@ -85,9 +72,10 @@
     <div class="row fila-2">
       <div
         class="caja3 col-md-3 col-xs-6 mt-3"
-        style="background-color: #f1edfc"
+        style="background-color: #fdf5fc"
+        
       >
-        <h2>Redes Sociales</h2>
+        <h2>Social Media</h2>
         <a
           title="Linkedin"
           href="https://www.linkedin.com/in/natalia-araya-frontend/"
@@ -112,15 +100,16 @@
 
       <div
         class="caja4 col-md-8 col-xs-10 mt-3"
-        style="background-color: #eed5ee"
+        style="background-color: #f7efdd"
+        
       >
         <h2>Estudios</h2>
         <p>
-          <b>• Desarrolladora FrontEnd.</b> Bootcamp Talento Digital. Sence.
-          Impartido por Kibernum Academy TI. 2021-2022.<br /><b
-            >• Titulada de Periodismo</b
+          <b>• FrontEnd Developer.</b> Bootcamp "Talento Digital". Sence.
+          Kibernum Academy TI. 2021-2022.<br /><b
+            >• Journalist</b
           >, Pontificia Universidad Católica de Valparaíso. Egreso, 2000.<br />
-          • <b>Titulada de Fotografía profesional</b>, Instituto Profesional
+          • <b>Professional Photograper</b>, Instituto Profesional
           INCA-CEA, Viña del Mar. Egreso, 2004.
         </p>
       </div>
@@ -129,81 +118,50 @@
     <div class="row fila-3 mt-4">
       <div
         class="caja5 col-md-12 col-xs-12 mt-3"
-        style="background-color: #fdf5fc"
+        style="background-color: #eefce2"
+        
+        
       >
-        <h2>Experiencia Laboral</h2>
-        <h3>(últimos 3 trabajos)</h3>
+        <h2>Work Experience</h2>
+        <h3>(last 3 jobs)</h3>
         <p>
-          <b>• Tryo Teatro Banda. Compañía teatral. 2018-2021</b>
+          <b>• Tryo Teatro Banda. Theater Company. 2018-2021</b>
           <br /><i
-            >Producción teatral, comunicaciones, gestión de redes sociales y
-            formulación y coordinación de proyectos.</i
+            >Theater production, communications, social media management, formulation and coordination of projects.</i
           ><br /><br />
-          Apoyo en la producción, manejo de redes y coordinación de proyectos en
-          esta compañía de teatro, una de las más importantes del país
-          (adjudicación de fondo “Teatro Itinerante” de Ministerio de las
-          Culturas y de las Artes, 2018), trabajo consistente en coordinar
-          externa e internamente todas las etapas para lograr una correcta
-          ejecución de cada presentación y proyecto.<br />
-          Responsabilidades y logros: <br />- Contactar, coordinar y comunicar
-          requerimientos estratégicos, comunicacionales y técnicos con cada
-          espacio de presentación de la compañía, logrando la correcta
-          ejecución, con alto número de beneficiarios en cada función. <br />-
-          Coordinar internamente con el equipo los calendarios de cada ensayo y
-          presentación, acceso de movilización, alimentación y alojamiento
-          durante las giras teatrales, generando una armonía y correcto
-          desempeño de la labor teatral del grupo. <br />- Difundir diversos
-          eventos de la compañía a través de Redes sociales(Facebook, twitter e
-          Instagram) y comunicados de prensa, logrando incrementar el número de
-          seguidores e informar pertinentemente las características de la obra a
-          presentar, espacio y horarios, previos a cada presentación. <br />-
-          Formular y postular a diversos fondos para la generación de nuevos
-          proyectos e itinerancias, logrando la adjudicación e implementación de
-          varios de ellos.
+          Support in the production, management of networks and coordination of projects in this theater company, one of the most important in the country (adjudication of the “Teatro Itinerante” fund from the Ministry of Cultures and the Arts, 2018), work consisting of coordinating externally and internally all the stages to achieve a correct execution of each presentation and project.<br />
+          Responsibilities and achievements: <br />- Contact, coordinate and communicate strategic, communicational and technical requirements with the different places of performance, achieving the correct execution, with a high number of beneficiaries in each function.<br />-
+          Coordinate internally with the team the schedules for each rehearsal and presentation, mobilization access, food and accommodation during theater tours, generating a harmony and correct performance of the theatrical work of the group. <br />- spread various company events through social networks (Facebook, twitter and Instagram) and press releases, managing to increase the number of followers and pertinently inform the characteristics of the work to present, space and schedules, prior to each presentation. <br />-
+          Formulate and apply for various funds for the generation of new
+          projects and tours, achieving the adjudication and implementation of several of them.
         </p>
         <p>
-          <strong>• Molécula. Radio Online. 2011- 2017</strong>
+          <strong>• Molécula. Online Radio. 2011- 2017</strong>
           <br /><i
-            >Producción radial, gestión de redes sociales, edición
-            fotográfica.</i
+            >Radio production, social media management, editing
+            photographic.</i
           ><br /><br />
-          Encargada de sección “La foto del día”, donde se mostraban trabajos de
-          distintos fotógrafos invitados. Gracias al desempeño en esta área, se
-          abrieron oportunidades y se adquirieron nuevas responsabilidades, como
-          productora de los distintos programas en vivo que se transmitían por
-          señal online y community manager, para comunicar las distintas
-          actividades a realizar.<br />Responsabilidades y logros: <br />-
-          Contactar y coordinar con distintos entrevistados su participación a
-          los diversos programas radiales a mi cargo, en el ámbito de la
-          producción, logrando una nutrida carta de invitados. Coordinación
-          interna entre el equipo de trabajo, logrando salir al aire siempre en
-          los horarios establecidos, sorteando toda clase de contingencias.
-          <br />- Manejo de redes sociales de plataforma online (twitter,
-          Facebook e Instagram) logrando obtener una comunidad sólida de
-          radioescuchas y comunicando adecuadamente cada actividad o programa.
-          <br />- Convocar a la comunidad de fotógrafos en Chile y el
-          extranjero, para su participación en “La foto del Día”, espacio donde
-          se logró dar a conocer el trabajo de cientos de profesionales y
-          amateurs, en nuestra plataforma.
+          In charge of the section "The photo of the day", an online gallery where the work of many different photographers was shown. Thanks to performance in this area,
+          opportunities opened up and new responsibilities were acquired, such as producer of the different live programs that were transmitted by online signal and community manager.<br />Responsibilities and achievements: <br />-
+          Contact and coordinate with different interviewees their participation to various radio programs in my charge, in the field of production, achieving a large guest list. Coordination
+          between the work team, managing to go on air always in
+          established schedules, avoiding all kinds of contingencies.
+          <br />- Management of online platform social networks (twitter,
+          Facebook and Instagram) managing to obtain a solid community of
+          listeners and properly communicating each activity or program.
+          <br />- Summon the community of photographers in Chile and the
+          abroad, for their participation in "The photo of the Day", a space where it was possible to publicize the work of hundreds of professionals and amateurs, on our platform.
         </p>
 
         <p>
           <b>• Universidad Tecnológica INACAP. 2008- 2011 </b><br />
-          <i>Docencia</i><br /><br />Docente de los ramos Fotografía Documental,
-          Fotografía Digital y Taller de Laboratorio en Blanco y Negro en
-          carreras de Fotografía y Cine, de la Universidad Tecnológica Inacap.
-          Además, se realizaron mentorías, como Profesora Guía en diversos
-          procesos de titulación.<br />
-          Responsabilidades y logros:<br />
-          - Aportar conocimientos a los alumnos de cada ramo, realizando una
-          capacitación y generación de competencias para su posterior desarrollo
-          laboral.<br />
-          - Comprometer diversas actividades que generaran una adquisición de
-          conocimientos por parte de los alumnos, a través de ejercicios
-          prácticos.<br />
-          - Evaluar de manera competente los conocimientos y capacidades de cada
-          estudiante generando siempre vínculos para sacar todo el potencial de
-          los alumnos, con crecimiento en sus competencias.
+          <i>Teaching</i><br /><br />Teacher of Documentary Photography classes, Digital Photography and Black and White Laboratory Workshop in Photography and Film careers, from the Inacap Technological University.
+          In addition, mentorships were carried out, as a Guide Teacher in various titling processes.<br />
+          Responsibilities and achievements:<br />
+          - Contribute knowledge to the students of each branch, carrying out a training and generation of skills for further development labor.<br />
+          - Engage various activities that generated an acquisition of knowledge by the students, through practical exercises.<br />
+          - Competently assess the knowledge and skills of each
+          student always generating links to get their full potential, with growth in their skills.
         </p>
 
         <!-- Button trigger modal -->
@@ -248,15 +206,14 @@
     <div class="row fila-4">
       <div
         class="caja6 col-md-12 col-xs-12 mt-5"
-        style="background-color: #eefce2"
+        style="background-color: #e3f6ff"
+       
       >
-        <h2>Otros Intereses</h2>
+        <h2>Other interests</h2>
         <p>
-          Me gustan muchísimo las actividades manuales. Soy ceramista, tengo un
-          horno de baja temperatura que me permite realizar todo el proceso
-          alfarero. También me gusta dibujar, pintar, bordar, tejer y el
-          scrapbooking. La literatura, la música y el buen cine también me
-          apasionan.
+          I really like handcraft activities. I am a ceramist, I have a
+          low temperature oven that allows me to carry out the entire process of pottering. I also like to draw, paint, embroider, knit and scrapbooking. Literature, music and good cinema also
+          passionates me.
         </p>
 
         <!-- Button trigger modal -->
@@ -297,92 +254,9 @@
         </div>
       </div>
     </div>
-
-<!-- <div class="container foot"> -->
-<div class="row fila-5">
-    <!-- <footer> -->
-    <footer style="background-color: #fcfce2;">
-    <!-- <div class="row fila-5" style="background-color: #fcfce2;"> -->
-      <!-- formulario -->
-      <form id="formulario" ref="form" @submit.prevent="sendEmail">
-        <div class="caja7 col-md-6 col-xs-12">
-          <div class="mb-3">
-            <label for="user" class="form-label">Nombre</label>
-            <input
-              type="text"
-              class="form-control"
-              id="user"
-              name="user_name"
-            />
-            <div id="nameHelpBlock" class="form-text">Escribe tu nombre.</div>
-          </div>
-
-          <div class="mb-3">
-            <label for="mail" class="form-label">Email</label>
-            <input
-              type="email"
-              class="form-control"
-              id="mail"
-              name="user_email"
-            />
-            <div id="nameHelpBlock" class="form-text">Escribe tu email.</div>
-          </div>
-        </div>
-
-        <div class="caja8 col-md-6 col-xs-12">
-          <div class="mb-3">
-            <label for="mail" class="form-label">Comentarios</label>
-            <div class="form-floating">
-              <textarea
-                name="message"
-                class="form-control"
-                style="height: 120px"
-              ></textarea>
-            </div>
-          </div>
-          <button type="submit" class="btn btn-light">Enviar</button>
-        </div>
-      </form>
-      <!-- fin del formulario -->
-    </footer>
-  <!-- </footer> -->
-  </div>
-    <!-- </div> -->
-  </div>
+</div>
  
 </template>
-
-<script>
-import emailjs from "emailjs-com";
-
-
-export default {
-  name: "HomeView",
-
-  components: {},
-  methods: {
-    sendEmail() {
-      emailjs
-        .sendForm(
-          "service_id5i86r",
-          "template_bxe159k",
-          this.$refs.form,
-          "GTXCMTTS14DOrzPT8"
-        )
-        .then(
-          (results) => {
-            console.log("success!", results.text);
-          },
-          (error) => {
-            console.log("failed...", error.text);
-          }
-        )
-        formulario.reset();
-        
-    },
-  },
-};
-</script>
 
 <style scoped>
 .container.cuerpo {
@@ -515,17 +389,6 @@ img {
   margin-left: 12px;
   margin-top: 6px;
 }
-
-.imgcv {
-  height: 300px;
-  width: auto;
-  border-radius: 15px;
-  margin-right: 15px;
-}
-
-div.modal-header {
-  text-align: center;
-  }
 
 .vue {
   height: 80px;

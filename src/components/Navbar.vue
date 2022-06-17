@@ -13,7 +13,10 @@
     <router-link class="nav-link" to="/">Home</router-link>
      </div>
      <div class="nav-item">
-     <router-link class="nav-link" to="/Portafolio">Portafolio</router-link>
+     <router-link class="nav-link" to="/portafolio">Portafolio</router-link>
+     </div>
+     <div class="nav-item">
+     <router-link class="nav-link" to="/englishView">English</router-link>
      </div>
 </ul>
     
@@ -36,12 +39,13 @@ nav {
   /* border-radius: 10px; */
   font-family: 'Quicksand', sans-serif;
   font-size: 20px;
-  padding: 0 124px 0 124px;
+  padding: 10px 124px 10px 124px;
 }
 
 ul {
     display: flex;
     align-items: flex-end;
+    margin: 0;
     
 }
 .nav-item {
